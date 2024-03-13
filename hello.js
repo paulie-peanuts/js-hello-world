@@ -4,7 +4,15 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log ("Hello, World! I love you!")
+console.log (' He says "The dude abides sum = 2+2 "')
+const sum = 2 + 2
+console.log (+ sum)
+console.log (sum); console.log ("sog            hi")
+
+
+
+
 
 /*  
 Next, PLAY! 
